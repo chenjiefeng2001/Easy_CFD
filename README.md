@@ -1,2 +1,8 @@
 # Easy_CFD
-The computational fluid dynamic software 
+
+**Update**:2022/3/21
+
+**Author**: Jiefeng Chen
+
+---
+The Easy_CFD is a tool for computational fliud 
